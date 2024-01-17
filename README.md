@@ -19,8 +19,7 @@ Y alguna más...
 
 ## Proyectos:
 [![BasicSoft PIM](https://img.shields.io/badge/basicsoft_pim-grey?style=for-the-badge&logo=laravel)]()
-[![MySQL](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql)]()
-[![Magento](https://img.shields.io/badge/magento-grey?style=for-the-badge&logo=magento)]()
+[![Xports](https://img.shields.io/badge/xports-grey?style=for-the-badge&logo=php)]()
 
 </br>
 Y alguna más...
