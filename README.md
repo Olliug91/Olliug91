@@ -11,7 +11,7 @@ Actualmente domino Laravel, plataforma de la cual estoy enganchado por su versat
 
 ## Tecnologías:
 [![Laravel](https://img.shields.io/badge/laravel-grey?style=for-the-badge&logo=laravel)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql)]()
 </br>
 Y alguna más...
 
