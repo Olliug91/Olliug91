@@ -10,7 +10,7 @@ Desde entonces me he dedicado a formarme y especializarme en backend primero y f
 Actualmente domino Laravel, plataforma de la cual estoy enganchado por su versatilidad y continuo crecimiento.
 
 ## Tecnologías:
-[![Laravel](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+[![Laravel](https://img.shields.io/badge/laravel-grey?style=for-the-badge&logo=laravel)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
