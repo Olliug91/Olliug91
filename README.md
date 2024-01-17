@@ -20,7 +20,7 @@ Y alguna más...
 ## Proyectos:
 [![BasicSoft PIM](https://img.shields.io/badge/basicsoft_pim-grey?style=for-the-badge&logo=laravel)]()
 <br>
-[![Xports](https://img.shields.io/badge/xports-grey?style=for-the-badge&logo=php)]() $\rightarrow$ Échale un ojo aquí: https://smartekibero.com/portfolio/xports/
+[![Xports](https://img.shields.io/badge/xports-grey?style=for-the-badge&logo=php)]() 👀 Échale un ojo aquí: https://smartekibero.com/portfolio/xports/
 
 
 ## Encuéntrame en:
