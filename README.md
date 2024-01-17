@@ -17,6 +17,14 @@ Actualmente domino Laravel, plataforma de la cual estoy enganchado por su versat
 </br>
 Y alguna más...
 
+## Proyectos:
+[![BasicSoft PIM](https://img.shields.io/badge/basicsoft_pim-grey?style=for-the-badge&logo=laravel)]()
+[![MySQL](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql)]()
+[![Magento](https://img.shields.io/badge/magento-grey?style=for-the-badge&logo=magento)]()
+
+</br>
+Y alguna más...
+
 ## Encuéntrame en:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@guillotkd-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/guillotkd)
