@@ -22,6 +22,7 @@ Y alguna más...
 <br>
 Software de gestión de inventario para tienda online, multitienda, especializado en todas las interacciones con Magento. Mantén conectado tu negocio con tu tienda virtual de la forma más eficiente.
 <br>
+<br>
 [![Xports](https://img.shields.io/badge/xports-grey?style=for-the-badge&logo=php)]() 
 <br>
 ERP de gestión deportiva online. Gestiona tu red deportiva y tus eventos de manera profesional.
