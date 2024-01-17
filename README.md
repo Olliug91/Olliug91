@@ -19,10 +19,9 @@ Y alguna más...
 
 ## Proyectos:
 [![BasicSoft PIM](https://img.shields.io/badge/basicsoft_pim-grey?style=for-the-badge&logo=laravel)]()
-[![Xports](https://img.shields.io/badge/xports-grey?style=for-the-badge&logo=php)]()
+<br>
+[![Xports](https://img.shields.io/badge/xports-grey?style=for-the-badge&logo=php)]() --> Échale un ojo aquí: https://smartekibero.com/portfolio/xports/
 
-</br>
-Y alguna más...
 
 ## Encuéntrame en:
 
