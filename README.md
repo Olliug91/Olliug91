@@ -23,7 +23,7 @@ Y alguna más...
 Software de gestión de inventario para tienda online, multitienda, especializado en todas las interacciones con Magento. Mantén conectado tu negocio con tu tienda virtual de la forma más eficiente.
 <br>
 <br>
-[![BasicSoft GYM](https://img.shields.io/badge/basicsoft_pim-grey?style=for-the-badge&logo=laravel)]()
+[![BasicSoft GYM](https://img.shields.io/badge/basicsoft_gym-grey?style=for-the-badge&logo=laravel)]()
 <br>
 Software de gestión de gimnasios, control de accesos y facturación, con acceso por parte del usuaro final, notificaciones y mucho más.
 <br>
