@@ -25,15 +25,18 @@ Desde 2020 trabajo en Conycom (empresa familiar con más de 30 años en software
 
 ---
 
-### ⚙️ Sistemas Desarrollados en Producción
-
-| Proyecto | Sector / Dominio | Reto Técnico y Solución |
-|---|---|---|
-| Top-Pharma | Distribución Farmacéutica | ERP integral web; integración con el estándar FEDICOM v3 y procesado automatizado de pedidos/albaranes. |
-| Karate-Xports | Deporte & Federaciones | Plataforma federativa (FKCV) y sistema de arbitraje en tiempo real (OVR) que erradicó el papel en campeonatos oficiales. |
-| Veribridge | Fiscal & Cumplimiento AEAT | Middleware API para la normativa VeriFactu con encadenamiento criptográfico (SHA-256) y firma electrónica XAdES. |
-| BSPIM | Integraciones B2B | Sincronización desasistida y de alta concurrencia de stock/catálogo entre Microsoft Dynamics AX y Magento 2. |
-| BSGym / BasicSoft | SaaS & Control de Acceso | Plataformas Multi-Tenancy con cobros automatizados (**Stripe Connect**) e integración por red con tornos biométricos ZKTeco. |
+### ⚙️ Ecosistema de Proyectos y Sistemas en Producción
+#### 🏥 ERPs, Integraciones B2B & Middleware Crítico
+* **Top-Pharma ERP**: Modernización integral a Laravel de un ERP de distribución farmacéutica, con conexión al estándar **FEDICOM v3** y procesado desatendido de pedidos.
+* **BSPIM**: Middleware de sincronización bidireccional y alta concurrencia de stock/catálogo entre **Microsoft Dynamics AX** y **Magento 2**.
+* **BSFacturación**: Sistema de facturación empresarial para pymes/autónomos con digitalización de gastos por **OCR**, arquitectura desacoplada y despliegue de escritorio mediante **NativePHP**.
+#### 🏢 Retail & Plataformas de Gran Cuenta
+* **Nuevo Centro**: Portal corporativo e intranet de gestión B2B para uno de los centros comerciales más emblemáticos de Valencia. Formularios dinámicos con **firma digital**, motor de cupones (PDF/QR), WiFi Marketing y gestión multi-rol para inquilinos.
+#### 🥋 Deportes, Competición & SaaS Multi-Tenancy
+* **Karate-Xports (y Compete)**: Suite oficial adoptada por la **FKCV** para gestión federativa y arbitraje/marcadores en tiempo real (OVR) en campeonatos oficiales sin papel.
+* **BasicSoft Club**: Plataforma SaaS Multi-Tenant en la nube para clubes deportivos, altas online y pasarela de cobros distribuida con **Stripe Connect**.
+* **BasicSoft Gym**: Sistema de gestión para gimnasios con app móvil y sincronización resiliente en red local con **tornos biométricos ZKTeco**.
+* **BSTKD & TKDFabra**: Ecosistema integral de Taekwondo (web multi-inquilino + app móvil en Ionic/Capacitor) para gestión de grados, exámenes y cobros.
 
 ---
 
