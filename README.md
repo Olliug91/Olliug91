@@ -1,34 +1,50 @@
-# Hola, soy Guillermo Tudela 👋  
-### Full-Stack Developer | Laravel & Ionic Enthusiast  
+<div align="center">
 
-Soy desarrollador web y móvil con más de 4 años de experiencia, especializado en **Laravel** y **Ionic**.  
+# Guillermo Tudela Marco 👋
+### Senior Backend Developer & Systems Architect
 
-Mi camino hacia la programación fue poco convencional: tras haber trabajado en construcción y metalurgia, en 2020 empecé a formarme en el mundo del desarrollo de software junto a mi padre, en la empresa **Conectividad y Comunicaciones S.L.**, dedicada desde hace 30 años al desarrollo de software de gestión farmacéutica.  
+[![PHP](https://img.shields.io/badge/PHP-8.3+-777BB4?style=flat-square&logo=php&logoColor=white)](https://php.net)
+[![Laravel](https://img.shields.io/badge/Laravel-11%2F12-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
+[![MySQL](https://img.shields.io/badge/MySQL-MariaDB-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com)
+[![Ionic](https://img.shields.io/badge/Ionic-Capacitor-3880FF?style=flat-square&logo=ionic&logoColor=white)](https://ionicframework.com)
+[![CI/CD](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![License](https://img.shields.io/badge/Architecture-SDD-blueviolet?style=flat-square)](#)
 
-Desde entonces, he trabajado en proyectos **multitenant**, **plataformas SaaS** y **sistemas de gestión deportiva y empresarial**, desarrollando tanto backend como frontend, además de aplicaciones móviles conectadas a APIs.  
+*Construyendo sistemas empresariales resilientes mediante arquitectura previa (SDD), integraciones críticas y flujos avanzados de IA.*
 
-Actualmente, disfruto creando soluciones escalables y prácticas para entornos reales, uniendo mi experiencia como desarrollador con mi faceta de **entrenador de taekwondo**, lo que me ha permitido diseñar software adaptado a clubes y federaciones deportivas.  
+[🌐 guillermotudela.es](https://guillermotudela.es) • [💼 LinkedIn](https://www.linkedin.com/in/guillermo-tudela/)
+
+---
+</div>
+
+### 🏗️ De la Arquitectura Física al Software
+
+Mi origen en Arquitectura Técnica y Fabricación Mecánica define mi forma de programar: nunca se pone un ladrillo sin planos. 
+
+Desde 2020 trabajo en Conycom (empresa familiar con más de 30 años en software de gestión farmacéutica), donde lidero la modernización de sistemas legacy, diseño de microservicios y desarrollo de productos SaaS end-to-end. Trabajo bajo metodología SDD (Spec-Driven Development): diseño y especifico cada contrato de API, modelo de datos y flujo antes de codificar, utilizando agentes de IA para acelerar el desarrollo sin sacrificar rigor ni calidad de código.
 
 ---
 
-## 🚀 Tecnologías principales  
-[![Laravel](https://img.shields.io/badge/Laravel-grey?style=for-the-badge&logo=laravel)]()  
-[![MySQL](https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql)]()  
-[![Ionic](https://img.shields.io/badge/Ionic-grey?style=for-the-badge&logo=ionic)]()  
-[![ExtJS](https://img.shields.io/badge/ExtJS-grey?style=for-the-badge&logo=sencha)]()  
-[![PHP](https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=php)]()  
+### ⚙️ Sistemas Desarrollados en Producción
 
-</br>
-Y algunas más: **JavaScript, Tailwind, Livewire, API REST, integración con terceros (Stripe, ZKBiosecurity, etc.)**.  
-
----
-
-## 🌐 Mi trabajo  
-[![Visita mi web](https://img.shields.io/badge/🌍%20Visita%20mi%20web-guillermotudela.es-blue?style=for-the-badge)](https://guillermotudela.es)  
+| Proyecto | Sector / Dominio | Reto Técnico y Solución |
+|---|---|---|
+| Top-Pharma / Disfarsor | Distribución Farmacéutica | ERP integral web; integración con el estándar FEDICOM v3 y procesado automatizado de pedidos/albaranes. |
+| Ecosistema Xports | Deporte & Federaciones | Plataforma federativa (FKCV) y sistema de arbitraje en tiempo real (OVR) que erradicó el papel en campeonatos oficiales. |
+| Veribridge | Fiscal & Cumplimiento AEAT | Middleware API para la normativa VeriFactu con encadenamiento criptográfico (SHA-256) y firma electrónica XAdES. |
+| BSPIM | Integraciones B2B | Sincronización desasistida y de alta concurrencia de stock/catálogo entre Microsoft Dynamics AX y Magento 2. |
+| BSGym / BasicSoft | SaaS & Control de Acceso | Plataformas Multi-Tenancy con cobros automatizados (**Stripe Connect**) e integración por red con tornos biométricos ZKTeco. |
 
 ---
 
-## 🌍 Encuéntrame en  
+### 📦 Paquetes & Open Source
 
-[![Twitter](https://img.shields.io/badge/Twitter-@guillotkd-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/guillotkd)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo_Tudela-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/guillermo-tudela)  
+- 🇪🇸 [laravel-spanish-validation](https://github.com/Olliug91/laravel-spanish-validation): Reglas de validación en Laravel para documentos e identificadores españoles (DNI, NIE, CIF, IBAN, Códigos Postales).
+- 💳 [laravel-redsys](https://github.com/Olliug91/laravel-redsys): Integración ligera y desacoplada de la pasarela Redsys/CECA para Laravel moderno.
+- 🤖 [OpenMetis AI](https://github.com/Olliug91/openmetis): Herramienta open-source para flujos e interfaces de modelos de lenguaje.
+
+---
+
+### 🥋 Disciplina & Liderazgo
+
+Fuera del código, soy Director Técnico y Entrenador Deportivo Nivel 2 de Taekwondo en el Club Fabra Sport. Las artes marciales son mi escuela de perseverancia, foco bajo presión y pedagogía; principios que traslado a cada arquitectura y a cada equipo con el que colaboro.
